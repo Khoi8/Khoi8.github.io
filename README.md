@@ -1,1 +1,2 @@
-viewable at https://Khoi8.github.io
+# portfolio
+https://github.gatech.edu/pages/Khoi8/portfolio/index.html

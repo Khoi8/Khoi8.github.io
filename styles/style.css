@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&family=Roboto+Slab&display=swap');
+
+
+ h1 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 32;
+    text-align: center;
+    padding-top: 10%;
+    color: #2E294E;
+ }
+
+ p {
+    font-family: 'Roboto Slab', serif;
+    font-size: 22;
+    text-align: center;
+    color: #2E294E;
+ }
+
+ body {
+    background-color:#F5F1ED ;
+  }
+
+img {
+    max-width: 40px;
+    max-height: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+.image:hover {
+    transform: scale(1.2);
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
