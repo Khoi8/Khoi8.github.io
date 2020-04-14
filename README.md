@@ -1,2 +1,2 @@
 # portfolio
-https://github.gatech.edu/pages/Khoi8/portfolio/index.html
+https://khoi8.github.io/
